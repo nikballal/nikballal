@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nikhil! <br/><a href="https://github.com/nikballal">Security Analyst</a>, <a href="https://www.linkedin.com/in/nikhilballal/">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Nikhil! <br/><a href="https://github.com/nikballal">Security Analyst</a>, <a href="https://www.linkedin.com/in/nikhilballal/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
