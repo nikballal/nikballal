@@ -3,12 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
-
-  <a href="https://github.com/nikballal/qualysvmdr">Patching host PC vulnerabilities using Qualys VMDR</a>
   
-- <b> SOC <b>
-   
-  <a href="https://github.com/nikballal/CloudSOC">Building a SOC + Honeynet in Azure</a>
+  [Patching host PC vulnerabilities using Qualys VMDR](https://github.com/nikballal/qualysvmdr)
+  
+- <b>SOC Implementation</b>
+  
+  [Building a SOC + Honeynet using Azure](https://github.com/nikballal/CloudSOC)
   
 <h2> 🤳 Connect with me:</h2>
 
