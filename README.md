@@ -2,8 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>Vulnerability Management</b>
 
+  <a href="https://github.com/nikballal/qualysvmdr">Patching host PC vulnerabilities using Qualys VMDR</a>
+  
+- <b> SOC <b>
+   
+  <a href="https://github.com/nikballal/CloudSOC">Building a SOC + Honeynet in Azure</a>
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
