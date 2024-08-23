@@ -1,10 +1,6 @@
 <h1>Hi, I'm Nikhil! <br/><a href="https://github.com/nikballal">Security Analyst</a>, <a href="https://www.linkedin.com/in/nikhilballal/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Vulnerability Management</b>
-  
-  [Patching host PC vulnerabilities using Qualys VMDR](https://github.com/nikballal/qualysvmdr)
   
 - <b>SOC Implementation</b>
   
